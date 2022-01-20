@@ -1,6 +1,5 @@
-# this is the project folder
-HI.
+# Hi, I'm Raviraj Bugge
 
-## Making changes.
+## My Social Media Handels
 
-Hi.
+Instagram [instagram](https://www.instagram.com/rider_4585/).

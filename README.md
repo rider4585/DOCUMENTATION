@@ -1,7 +1,13 @@
-# Hi, I'm Raviraj Bugge
+# This is heading a single # is used for largest heading
+> # Syntax for Large heading
+> ## # This is the largest heading
+> ### ## This is second largest heading
+> #### ### This is smallest heading
 
-## My Social Media Handels
+# We can use quotes using >
+> This is a quote
 
-Instagram [instagram](https://www.instagram.com/rider_4585/).
-
-- [x] Check This Box.
+# Using the links or Hyperlinks
+> This is my [instagram](https://www.instagram.com/rider_4585/).
+> #### syntax
+> #### sample text[link Name](Link URL).

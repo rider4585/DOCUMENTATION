@@ -10,7 +10,7 @@
 # Using the links or Hyperlinks
 > #### syntax
 > #### sample text[link Name](Link URL).
-> This is my [instagram](https://www.instagram.com/rider_4585/) target="_blank".
+> This is my [instagram](https://www.instagram.com/rider_4585/).
 
 # We can also quote a code
 > syntax for code quoting
